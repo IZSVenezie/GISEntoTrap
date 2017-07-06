@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: #004184 url("./img/map2_clc_reclass.PNG") no-repeat center center; 
+  background: #ffbc96 url("../img/map2_clc_reclass.PNG") no-repeat center center; 
 }
 
 @media screen and (min-width: 64em) {
